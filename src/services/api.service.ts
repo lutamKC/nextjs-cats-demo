@@ -1,4 +1,3 @@
-import {initializeApp} from "firebase/app";
 import axios from 'axios';
 
 const catApiBaseDomain = 'https://api.thecatapi.com/v1/';
